@@ -21,6 +21,7 @@
     "@react-navigation/bottom-tabs": "^7.0.0",
     "@react-navigation/native": "^7.0.9",
     "babel-plugin-react-compiler": "^19.0.0-beta-af1b7da-20250417",
+    "eslint-plugin-react-compiler": "^19.1.0-rc.1",
     "expo": "~52.0.11",
     "expo-blur": "~14.0.1",
     "expo-constants": "~17.0.3",
